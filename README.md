@@ -1,5 +1,6 @@
 # Adventure-Work--EndtoEnd-BI-Project
-![Image](https://github.com/user-attachments/assets/4d57e5e3-b597-42bf-ac83-7fa09c82b0c2)
+<img width="203" height="30" alt="image" src="https://github.com/user-attachments/assets/329fe59c-0043-43c9-a1a8-7834c2fa8d41" />
+
 📌 Overview
 
 This project demonstrates my proficiency in Databricks and Azure Synapse Analytics, focusing on building scalable data pipelines and performing advanced analytics. It serves as a practical application of the concepts and skills I've acquired, bridging theoretical knowledge with real-world implementation.
