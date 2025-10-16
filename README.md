@@ -1,5 +1,5 @@
 # Adventure-Work--EndtoEnd-BI-Project
-<img width="203" height="30" alt="image" src="https://github.com/user-attachments/assets/329fe59c-0043-43c9-a1a8-7834c2fa8d41" />
+![Image](https://github.com/user-attachments/assets/47ab5306-dde1-4579-b60a-6ad8e2ab523d)
 
 📌 Overview
 
